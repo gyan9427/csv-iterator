@@ -12,5 +12,10 @@
             "email": "gyandev.mishra@kadamtech.com"
         }
     ],
-    "require": {}
+    "require": {},
+      "autoload-dev": {
+        "classmap": [
+            "CSVIterator/Iterator.php"
+          ]
+        }
 }
