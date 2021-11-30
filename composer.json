@@ -1,0 +1,16 @@
+{
+    "name": "csv-iterator/csv-iterator",
+    "description": "This is a package to iterate csv data inside csv-file",
+    "autoload": {
+        "psr-4": {
+            "CsvIterator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gyan mishra",
+            "email": "gyandev.mishra@kadamtech.com"
+        }
+    ],
+    "require": {}
+}
